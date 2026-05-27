@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustervncrypt",
+        "uuid": 9591322,
+        "checksum": "0awgpt"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
